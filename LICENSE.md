@@ -4,11 +4,18 @@ Official texture pack for The Uplift World
 
 ---
 
+### License
 The works in this repository are licensed under Creative Commons Attribution-ShareAlike 4.0 [CC-BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0). Copyright (C) 2022 mightpossibly
 
-This license applies to all image files in the repository, with the following exceptions:
 
+
+
+---
+
+### Exceptions
 General disclaimer: The following original authors have no affiliation with this repository, nor do they endorse it or its contents in any way.
+
+The license applies to all image files in the repository, with the following exceptions:
 
 ---
 
