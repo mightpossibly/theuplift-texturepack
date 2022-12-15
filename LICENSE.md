@@ -19,12 +19,6 @@ The license applies to all image files in the repository, with the following exc
 
 ---
 
-Remixed textures from 'xocean' mod.
-Specific image files remixed: xocean_brick.png, xocean_carved.png, xocean_circular.png, xocean_cobble.png,xocean_pillar.png, xocean_stone.png
-Original License and Author: MIT License - Copyright (c) 2018 starninjas
-
----
-
 Remixed textures from 'wool' mod from minetest_game.
 Specific image files remixed: wool_light_blue.png
 Original License and Author: Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0) (http://creativecommons.org/licenses/by-sa/3.0/)
