@@ -36,12 +36,6 @@ Original Author and License: minefaco, GPLv3.0 (License for code and media). con
 
 ---
 
-Remixed textures from 'quartz' mod.
-Specific image files remixed: quartz_ore.png, quartz_crystal_piece.png, quartz_crystal_full.png
-Original Author and License: MIT License (MIT), Copyright (c) 2016 EvergreenTree, 
-
----
-
 Remixed textures from 'moretrees' mod.
 Specific image files remixed: All images in folder except wood textures and sapling textures, which have all been made from scratch
 Original Author and License: 
