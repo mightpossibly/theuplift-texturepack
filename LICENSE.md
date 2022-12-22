@@ -31,7 +31,7 @@ Original Author and License: VanessaE, [CC0](https://creativecommons.org/publicd
 
 ---
 
-Remixed textures from 'stripped_tree' mod. [Github](https://github.com/minefaco/chisel_tree)
+Remixed textures from 'stripped_tree' mod. [Github](https://github.com/minefaco/chisel_tree) 
 Original Author and License: minefaco, GPLv3.0 (License for code and media). contributed to by wsor4035 
 
 ---
